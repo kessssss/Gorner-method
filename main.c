@@ -10,7 +10,6 @@ int main()
     double x;
     clock_t begin = clock();
 
-    printf("\nTHIS PROGRAM PERFORMS GORNER METHOD\n\n");
     printf("The number of factors in the function :  ");
     scanf("%d", &N);
     double *mass;
